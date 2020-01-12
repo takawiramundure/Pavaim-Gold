@@ -9,7 +9,7 @@ $breakpoint-medium-max: ($breakpoint-large - 1);
 $breakpoint-large-max: ($breakpoint-xlarge - 1);
 
 @import 'elements/body.scss';
-// @import 'components/util.scss';
+@import 'components/util.scss';
 @import 'prettyPhoto.scss';
 @import 'animate.scss';
 // @import 'pe-icons.scss'

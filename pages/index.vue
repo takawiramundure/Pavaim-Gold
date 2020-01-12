@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <div id="preloader"></div> -->
     <main-slider />
+    <content-wrapper />
   </div>
 </template>

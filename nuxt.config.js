@@ -18,15 +18,8 @@ export default {
       }
     ],
     script: [
-      // { src: '~/assets/js/slider.js' },
-      // { src: '~/assets/js/bootstrap.min.js' },
-      // { src: '~/assets/js/html5shiv.js' },
       // { src: '~/assets/js/init.js' },
-      // { src: '~/assets/js/jquery.isotope.min.js' },
-      // { src: '~/assets/js/jquery.js' },
-      // { src: '~/assets/js/jquery.prettyPhoto.js' },
-      // { src: '~/assets/js/plugins.js' },
-      // { src: '~/assets/js/respond.min.js' }
+      // { src: '~/assets/js/plugins.js' }
     ]
   },
   /*
@@ -43,6 +36,7 @@ export default {
   */
   plugins: [
     '~/plugins/components'
+    // '~/plugins/plugins.js'
   ],
   /*
   ** Nuxt.js dev-modules

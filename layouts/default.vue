@@ -1,8 +1,10 @@
 <template>
   <div>
     <main-nav />
+    <!-- <header-test /> -->
     <nuxt />
     <main-footer />
+    <!-- <footer-test /> -->
   </div>
 </template>
 
