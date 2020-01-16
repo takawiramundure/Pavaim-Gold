@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <main>
     <main-nav />
     <!-- <header-test /> -->
     <nuxt />
     <main-footer />
     <!-- <footer-test /> -->
-  </div>
+  </main>
 </template>
 
 <style lang="scss">

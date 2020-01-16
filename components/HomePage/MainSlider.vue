@@ -1,33 +1,36 @@
 <template>
-  <div>
-    <section id="main-slider" class="no-margin">
-      <div class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="item active">
-            <div class="container">
-              <div class="row">
-                <div class="col-sm-12">
-                  <div class="carousel-content center centered">
-                    <span class="home-icon pe-7s-gleam bounce-in"></span>
-                    <h2
-                      class="boxed animation animated-item-1 fade-down"
-                    >WE GONNA HELP YOU MAKE AN IMPACT</h2>
-                    <p
-                      class="boxed animation animated-item-2 fade-up"
-                    >Our expertise will guide you to success. Without Fail.</p>
-                    <br />
-                    <a class="btn btn-md animation bounce-in" href="#services">Learn More</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!--/.item-->
+  <section>
+    <div>
+      <section class="no-margin">
+        <div>
+          <b-carousel id="carousel-fade" style="text-shadow: 0px 0px 2px #000" fade indicators>
+            <b-carousel-slide img-src="~/assets/images/bg/bg1.jpg"></b-carousel-slide>
+            <b-carousel-slide img-src="~/assets/images/bg/bg1.jpg"></b-carousel-slide>
+            <b-carousel-slide img-src="~/assets/images/bg/bg1.jpg"></b-carousel-slide>
+          </b-carousel>
         </div>
-        <!--/.carousel-inner-->
-      </div>
-      <!--/.carousel-->
-    </section>
-    <!--/#main-slider-->
-  </div>
+      </section>
+      <!--/#main-slider-->
+    </div>
+  </section>
 </template>
+
+<script>
+export default {
+  data() {
+    return {
+      slide: 0,
+      sliding: null,
+      imageUrl: "~/assets/images/bg/"
+    };
+  },
+  methods: {
+    onSlideStart(slide) {
+      this.sliding = true;
+    },
+    onSlideEnd(slide) {
+      this.sliding = false;
+    }
+  }
+};
+</script>

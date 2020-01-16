@@ -1,67 +1,115 @@
 <template>
-  <header class="navbar navbar-inverse navbar-fixed-top" role="banner">
+  <nav class="navbar navbar-transparent navbar-inverse navbar-expand-lg fixed-top" role="banner">
     <div class="container">
-      <div class="navbar-header">
+      <div class="navbar-translate">
+        <a
+          href="/"
+          class="navbar-brand active router-link-active el-popover__reference"
+          aria-describedby="el-popover-1587"
+          tabindex="0"
+        >
+          <img src="~/assets/images/logo/web_logo.png" alt class="logo" />
+        </a>
+        <span>
+          <div
+            role="tooltip"
+            id="el-popover-1587"
+            aria-hidden="true"
+            class="el-popover el-popper popover"
+            tabindex="0"
+            style="width: 200px; display: none;"
+          ></div>
+        </span>
         <button
           type="button"
-          class="navbar-toggle"
           data-toggle="collapse"
-          data-target=".navbar-collapse"
+          data-target="#navbar"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+          class="navbar-toggler collapsed"
         >
-          <span class="sr-only">Toggle navigation</span>
-          <i class="fa fa-bars"></i>
+          <span class="navbar-toggler-bar top-bar"></span>
+          <span class="navbar-toggler-bar middle-bar"></span>
+          <span class="navbar-toggler-bar bottom-bar"></span>
         </button>
-        <a class="navbar-brand" href="index.html">
-          <h1>
-            <span class="pe-7s-gleam bounce-in"></span> IMPACT
-          </h1>
-        </a>
       </div>
-      <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li>
-            <a href="index.html">Home</a>
-          </li>
-          <li>
-            <a href="about-us.html">About Us</a>
-          </li>
-          <li>
-            <a href="services.html">Services</a>
-          </li>
-          <li>
-            <a href="portfolio.html">Portfolio</a>
-          </li>
-          <li>
-            <a href="blog.html">Blog</a>
-          </li>
-          <li>
-            <a href="contact-us.html">Contact</a>
-          </li>
-          <li class="dropdown active">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              Pages
-              <i class="icon-angle-down"></i>
+      <div data-color="orange" id="navigation" class="navbar-collapse collapse">
+        <ul class="navbar-nav ml-auto">
+          <nuxt-link tag="li" to="/about" class="nav-link">
+            <a>
+              <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+              <p>About Us</p>
             </a>
-            <ul class="dropdown-menu">
-              <li>
-                <a href="project-item.html">Project Single</a>
-              </li>
-              <li>
-                <a href="blog-item.html">Blog Single</a>
-              </li>
-              <li class="active">
-                <a href="404.html">404</a>
-              </li>
-            </ul>
+          </nuxt-link>
+          <nuxt-link tag="li" to="/services" class="nav-link">
+            <a>
+              <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+              <p>Services</p>
+            </a>
+          </nuxt-link>
+          <nuxt-link tag="li" to="/blog" class="nav-link">
+            <a>
+              <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+              <p>News</p>
+            </a>
+          </nuxt-link>
+          <nuxt-link tag="li" to="/portfolio" class="nav-link">
+            <a>
+              <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+              <p>About Us</p>
+            </a>
+          </nuxt-link>
+          <nuxt-link tag="li" to="/contact" class="nav-link">
+            <a>
+              <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+              <p>Get In Touch</p>
+            </a>
+          </nuxt-link>
+
+          <li class="nav-item">
+            <a
+              rel="tooltip"
+              title="Follow us on Twitter"
+              data-placement="bottom"
+              href="#"
+              target="_blank"
+              class="nav-link"
+            >
+              <i class="fa fa-twitter"></i>
+              <p class="d-lg-none d-xl-none">Twitter</p>
+            </a>
           </li>
-          <li>
-            <span class="search-trigger">
-              <i class="fa fa-search"></i>
-            </span>
+          <li class="nav-item">
+            <a
+              rel="tooltip"
+              title="Like us on Facebook"
+              data-placement="bottom"
+              href="#"
+              target="_blank"
+              class="nav-link"
+            >
+              <i class="fa fa-facebook-square"></i>
+              <p class="d-lg-none d-xl-none">Facebook</p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a
+              rel="tooltip"
+              title="Follow us on Instagram"
+              data-placement="bottom"
+              href="#"
+              target="_blank"
+              class="nav-link"
+            >
+              <i class="fa fa-instagram"></i>
+              <p class="d-lg-none d-xl-none">Instagram</p>
+            </a>
           </li>
         </ul>
       </div>
     </div>
-  </header>
+    <!-- <div class="gap"></div> -->
+  </nav>
   <!--/header-->
 </template>

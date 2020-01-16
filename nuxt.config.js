@@ -9,7 +9,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description, pavain' },
+      { hid: 'description', name: 'description', content: 'Parvaim Mining Finance is a private equity and venture capital firm' },
       { name: 'author', content: 'takaMuInc-anauld.ca' },
     ],
     link: [
