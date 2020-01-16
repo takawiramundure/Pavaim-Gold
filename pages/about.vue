@@ -16,7 +16,7 @@
           </div>
           <div class="gap"></div>
           <div class="center gap fade-down section-heading">
-            <h2 class="main-title">Meet The Team</h2>
+            <h2 class="main-title">Meet Our Team</h2>
             <hr />
             <p>Of an or game gate west face shed. no great but music too old found arose.</p>
           </div>
