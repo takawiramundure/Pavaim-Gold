@@ -1,5 +1,86 @@
 <template>
   <div>
-    <h2>contact page</h2>
+    <section id="single-page-slider" class="no-margin">
+      <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="item active">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="center gap fade-down section-heading">
+                    <h2 class="main-title">Get In Touch</h2>
+                    <hr />
+                    <p>Of an or game gate west face shed. no great but music too old found arose.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--/.item-->
+        </div>
+        <!--/.carousel-inner-->
+      </div>
+      <!--/.carousel-->
+    </section>
+    <!--/#main-slider-->
+    <div id="content-wrapper">
+      <section id="contact" class="white">
+        <div class="container">
+          <div class="gap"></div>
+          <div class="row">
+            <div class="col-md-4 fade-up">
+              <h3>Contact Information</h3>
+              <div class="gap"></div>
+              <p>
+                <span class="icon icon-home"></span>Parvaim Global Head Office
+                <br />
+                <span class="icon icon-home"></span>121 Tongogara Road
+                <br />
+                <span class="icon icon-home"></span>Harare, Zimbabwe
+                <br />
+                <br />
+                <span class="icon icon-phone"></span>+263 65984 405
+                <br />
+                <span class="icon icon-mobile"></span>+263 65984 405
+                <br />
+                <br />
+                <span class="icon icon-envelop"></span>
+                <a href="#">email@parvaimglobal.com</a>
+                <br />
+                <span class="icon icon-twitter"></span>
+                <a href="#">@parvaimglobal.com</a>
+                <br />
+                <span class="icon icon-facebook"></span>
+                <a href="#">Parvaim Global</a>
+                <br />
+              </p>
+            </div>
+            <!-- col -->
+
+            <div class="col-md-8 fade-up">
+              <h3>Drop Us A Message</h3>
+              <br />
+              <br />
+              <div id="message"></div>
+              <form method="post" action="sendemail.php" id="contactform">
+                <input type="text" name="name" id="name" placeholder="Name" />
+                <input type="text" name="email" id="email" placeholder="Email" />
+                <input type="text" name="website" id="website" placeholder="Website" />
+                <textarea name="comments" id="comments" placeholder="Comments"></textarea>
+                <input
+                  class="btn btn-outlined btn-primary"
+                  type="submit"
+                  name="submit"
+                  value="Submit"
+                />
+              </form>
+            </div>
+            <!-- col -->
+          </div>
+          <!-- row -->
+          <div class="gap"></div>
+        </div>
+      </section>
+    </div>
   </div>
 </template>

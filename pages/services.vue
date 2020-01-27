@@ -10,7 +10,7 @@
                   <div class="center gap fade-down section-heading">
                     <h2 class="main-title">Our Services</h2>
                     <hr />
-                    <p>Of an or game gate west face shed. no great but music too old found arose.</p>
+                    <p>Parvaim’s partners can make use of Parvaim’s team of professionals on a range of value-accretive projects.</p>
                   </div>
                 </div>
               </div>
@@ -29,78 +29,50 @@
         <div class="container">
           <div class="gap"></div>
           <div class="row">
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-6 col-sm-6">
               <div class="service-block">
                 <div class="pull-left bounce-in">
-                  <i class="fa fa-windows fa fa-md"></i>
+                  <!-- <i class="fa fa-windows fa fa-md"></i> -->
                 </div>
                 <div class="media-body fade-up">
-                  <h3 class="media-heading">Windows Apps</h3>
-                  <p>Unfeeling so rapturous discovery he exquisite. Reasonably so middletons or impression by terminated. Old pleasure required removing elegance him had. Down she bore sing saw calm high.</p>
+                  <h3 class="media-heading">Mining Venture Capitalist:</h3>
+                  <p align="justify">
+                    We do considerations on investments in mining companies where a value catalyst is projected within the short to medium term.
+                    <br />
+                    <b>Producing assets</b> – particularly those with expansion or optimization opportunities.
+                    <br />
+
+                    <b>Development stage companies</b> – where cash flow generation is expected within a modest period of time.
+                    <br />
+
+                    <b>Turnaround situations</b> – when troubled, under-appreciated or over-looked businesses look to realize their potential.
+                    <br />
+
+                    <b>Acquisition finance</b> – where management has identified an opportunity and needs financial backing and transaction expertise.
+                    <br />
+                  </p>
+                  <p>
+                    Parvaim does investing in all commodities and all geographies where value-creation opportunities exist. <br />
+                    <b>Mining products, services and technology</b> <br/>
+                    In addition to primary mining investments, Parvaim will also invest in products, services, and technology for the mining sector. <br />
+                    As investors in products, services, and technology, we will be looking for the following potential in opportunities:<br />
+                    Organic growth, including geographic expansion and entry into new markets.<br />
+                    Development of new or disruptive products and technologies.<br />
+                    Growth through M&A.<br />
+                    Parvaim is focused on opportunities where it can work with its partners to realize value accretion within two years from initial investment up to as many years as we agree.
+                  </p>
                 </div>
               </div>
             </div>
             <!--/.col-md-4-->
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-6 col-sm-6">
               <div class="service-block">
                 <div class="pull-left bounce-in">
-                  <i class="fa fa-android fa fa-md"></i>
+                  <!-- <i class="fa fa-android fa fa-md"></i> -->
                 </div>
                 <div class="media-body fade-up">
-                  <h3 class="media-heading">Facebook Marketing</h3>
+                  <h3 class="media-heading">Real Estate Venture Capitalist</h3>
                   <p>The who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it.</p>
-                </div>
-              </div>
-            </div>
-            <!--/.col-md-4-->
-            <div class="col-md-4 col-sm-6">
-              <div class="service-block">
-                <div class="pull-left bounce-in">
-                  <i class="fa fa-apple fa fa-md"></i>
-                </div>
-                <div class="media-body fade-up">
-                  <h3 class="media-heading">iOS Development</h3>
-                  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                </div>
-              </div>
-            </div>
-            <!--/.col-md-4-->
-          </div>
-          <!--/.row-->
-          <div class="gap"></div>
-          <div class="row">
-            <div class="col-md-4 col-sm-6">
-              <div class="service-block">
-                <div class="pull-left bounce-in">
-                  <i class="fa fa-linux fa fa-md"></i>
-                </div>
-                <div class="media-body fade-up">
-                  <h3 class="media-heading">Linux Development</h3>
-                  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                </div>
-              </div>
-            </div>
-            <!--/.col-md-4-->
-            <div class="col-md-4 col-sm-6">
-              <div class="service-block">
-                <div class="pull-left bounce-in">
-                  <i class="fa fa-dribbble fa fa-md"></i>
-                </div>
-                <div class="media-body fade-up">
-                  <h3 class="media-heading">Graphic Design</h3>
-                  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
-                </div>
-              </div>
-            </div>
-            <!--/.col-md-4-->
-            <div class="col-md-4 col-sm-6">
-              <div class="service-block">
-                <div class="pull-left bounce-in">
-                  <i class="fa fa-google-plus fa fa-md"></i>
-                </div>
-                <div class="media-body fade-up">
-                  <h3 class="media-heading">SEO Services</h3>
-                  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae.</p>
                 </div>
               </div>
             </div>
@@ -114,7 +86,7 @@
             <div class="center gap fade-down section-heading">
               <h2 class="main-title">Our Skills</h2>
               <hr />
-              <p>Of an or game gate west face shed. no great but music too old found arose.</p>
+              <p>Parvaim’s partners can take comfort_in Parvaim’s long-term, fundamentals-based approach to equity investing.</p>
             </div>
           </div>
         </div>
@@ -123,8 +95,8 @@
             <div class="col-md-3">
               <div class="tile-progress tile-red bounce-in">
                 <div class="tile-header">
-                  <h3>Video Editing</h3>
-                  <span>Our cutting room floor is messy.</span>
+                  <h3>Investment</h3>
+                  <span>The legal team</span>
                 </div>
                 <div class="tile-progressbar">
                   <span data-fill="65.5%" style="width: 65.5%;"></span>
@@ -140,7 +112,7 @@
               <div class="tile-progress tile-cyan bounce-in">
                 <div class="tile-header">
                   <h3>Marketing</h3>
-                  <span>How well we can sell you and your brand.</span>
+                  <span>The legal team</span>
                 </div>
                 <div class="tile-progressbar">
                   <span data-fill="98.5%" style="width: 98.5%;"></span>
@@ -155,8 +127,8 @@
             <div class="col-md-3">
               <div class="tile-progress tile-primary bounce-in">
                 <div class="tile-header">
-                  <h3>Web Development</h3>
-                  <span>We love servers and stuff.</span>
+                  <h3>Finance</h3>
+                  <span>The legal team</span>
                 </div>
                 <div class="tile-progressbar">
                   <span data-fill="90%" style="width: 90%;"></span>
@@ -171,8 +143,8 @@
             <div class="col-md-3">
               <div class="tile-progress tile-pink bounce-in">
                 <div class="tile-header">
-                  <h3>Coffee</h3>
-                  <span>We done make good joe, though.</span>
+                  <h3>Legal </h3>
+                  <span>The legal team</span>
                 </div>
                 <div class="tile-progressbar">
                   <span data-fill="10%" style="width: 10%;"></span>

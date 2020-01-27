@@ -9,7 +9,7 @@
                 <div class="center gap fade-down section-heading">
                   <h2 class="main-title">About Us</h2>
                   <hr />
-                  <p>Of an or game gate west face shed. no great but music too old found arose.</p>
+                  <p>Parvaim’s partners can make use of Parvaim’s team of professionals on a range of value-accretive projects.</p>
                 </div>
               </div>
             </div>

@@ -51,13 +51,13 @@
           <nuxt-link tag="li" to="/blog" class="nav-link">
             <a>
               <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-              <p>News</p>
+              <p>Our News</p>
             </a>
           </nuxt-link>
           <nuxt-link tag="li" to="/portfolio" class="nav-link">
             <a>
               <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-              <p>About Us</p>
+              <p>Our Works</p>
             </a>
           </nuxt-link>
           <nuxt-link tag="li" to="/contact" class="nav-link">
